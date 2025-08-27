@@ -62,5 +62,5 @@ Resultado: 50.32 BRL
 Este projeto está licenciado sob a **MIT License**. Sinta-se à vontade para usá-lo e modificá-lo! 🎉
 
 ## 📌 Autor
-Desenvolvido por (https://github.com/LuksDevs).
+Desenvolvido por **[Lucas Ferreira](https://github.com/LucasFerreiraDev1)**.
 
